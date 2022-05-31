@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 002_Escanor_Sunshine
+  m_Controller: {fileID: 9100000, guid: f59de9b93dea14703b0b8c26895b40c3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 17b5fea80c9d0431e9e1aab71d709a23, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: e6bdeacc222114005bd4b9471c99fd56, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d8c2673b0f05341c8a3171a4b2881d8e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4356e57244827492f8b5d3c417a2d7be, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: afa81e5e3ced84dc5bea707c3caabfc2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 014a27922967b454b8f5d49a07fc23c8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: dbc4a1974b68f461fab824bc1f959085, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: af9a3799192e14db5a47e1e776877ccd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 999615ebaef874a22b13ea2373c31112, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7f3fcdaf8870a43b6897132e3bee01c3, type: 2}
